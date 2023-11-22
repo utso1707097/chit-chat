@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Express.js
+.env
+
+# React.js
+/build/
+/node_modules/
+
+# MongoDB
+*.log
+*.lock
+*.conf
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
